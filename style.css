@@ -18,3 +18,26 @@ img{
     border-radius: 8px;
     font-size: medium;
 }
+#section1{
+    background-position: bottom ;
+    background-size: cover;
+    background-image: radial-gradient(circle at center, rgba(184, 51, 225, .08) 0, rgba(144, 89, 255, .08) 37.1%, rgba(91, 109, 248, .08) 61.4%, rgba(0, 144, 237, .08) 100%);
+    display: flex;
+    margin-top: 20px;
+    align-items: center;
+    justify-content:
+
+   
+}
+.header-buton{
+    display: inline-block;
+    border-radius: 8px;
+    width: 18rem;
+    height: 3rem;
+
+}
+#buton2{
+    background-color: #0060df;
+    border: none;
+    color: white;
+}
